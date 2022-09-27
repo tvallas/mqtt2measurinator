@@ -12,7 +12,7 @@ setup(
     author='topo',
     author_email='tvallas@iki.fi',
     url='https://github.com/tvallas/mqtt2measurinator',
-    install_requires=['paho-mqtt'],
+    install_requires=['paho-mqtt', 'requests'],
     packages=find_packages(),
     entry_points={
         'console_scripts': [
