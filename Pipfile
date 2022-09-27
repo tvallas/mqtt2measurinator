@@ -13,7 +13,7 @@ python-semantic-release = "*"
 
 [packages]
 paho-mqtt = "*"
-PyYAML = ">=5.4"
+requests = "*"
 
 [requires]
 python_version = "3.8"
