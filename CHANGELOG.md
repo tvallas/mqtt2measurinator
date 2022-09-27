@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.3 (2022-09-27)
+### Fix
+* Add missing lock file ([`18c1787`](https://github.com/tvallas/mqtt2measurinator/commit/18c17877488a56b6bba986ee7649a2b902aa0985))
+
 ## v0.1.2 (2022-09-27)
 ### Fix
 * Dummy fix to force new release ([`9b99202`](https://github.com/tvallas/mqtt2measurinator/commit/9b99202018ad088d454b7e26777d2f8a6111253e))
