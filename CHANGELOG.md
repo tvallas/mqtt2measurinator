@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2022-09-27)
+### Fix
+* Dummy fix to force new release ([`9b99202`](https://github.com/tvallas/mqtt2measurinator/commit/9b99202018ad088d454b7e26777d2f8a6111253e))
+
 ## v0.1.1 (2022-09-27)
 ### Fix
 * Add missing dependencies ([`2bdd064`](https://github.com/tvallas/mqtt2measurinator/commit/2bdd064a8cc066528fb13adc95717685414f1ef6))
