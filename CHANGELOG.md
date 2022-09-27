@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.4 (2022-09-27)
+### Fix
+* Add missing dependecy ([`02b04a7`](https://github.com/tvallas/mqtt2measurinator/commit/02b04a71857736de2f79cf5b4168d81275d4c64a))
+* Add missing dependency ([`deb1299`](https://github.com/tvallas/mqtt2measurinator/commit/deb1299f974b643e723160154e35ed5a2b617c38))
+
 ## v0.1.3 (2022-09-27)
 ### Fix
 * Add missing lock file ([`18c1787`](https://github.com/tvallas/mqtt2measurinator/commit/18c17877488a56b6bba986ee7649a2b902aa0985))
